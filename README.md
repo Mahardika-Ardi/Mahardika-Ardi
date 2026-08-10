@@ -1,166 +1,127 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8B5CF6,100:06B6D4&height=180&section=header&text=Mahardika%20Arfuri&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend-Focused%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8B5CF6,100:06B6D4&height=150&section=header&text=Mahardika%20Arfuri&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Backend-Focused%20Full-Stack%20Developer&descAlignY=60&descSize=16" width="100%"/>
 
-### Backend Engineering • APIs • Architecture • Performance • Security
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=Backend+Engineering;REST+API+Design;Software+Architecture;Performance+%26+Security;Full-Stack+Development" />
 
 <br>
 
-<a href="https://github.com/Mahardika-Ardi">
-<img src="https://img.shields.io/badge/GitHub-Mahardika--Ardi-181717?style=for-the-badge&logo=github" />
-</a>
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<a href="https://github.com/Mahardika-Ardi"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"></a> <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
 
 </div>
 
 ---
 
-## 👋 About Me
+## 🧠 About Me
 
-I'm a **Software Engineering (RPL) student at SMK Telkom Malang** focused primarily on backend development while also building full-stack applications.
+Backend-focused developer interested in **building structured, maintainable, and reliable web applications**.
 
-My main interests are:
+My main interests:
 
-<div align="center">
+`Backend Engineering` · `REST APIs` · `Architecture` · `Performance` · `Security` · `Problem Solving`
 
-| ⚙️ Backend | 🏗️ Architecture | ⚡ Performance | 🔐 Security |
-| :--------: | :--------------: | :-----------: | :---------: |
-
-</div>
-
-I learn through **formal education, self-learning, external programs, and hands-on projects**. So far, I've worked on approximately **47 projects**, including **16 Express.js projects** and **8 full-stack projects**.
+I enjoy understanding how systems work internally and turning requirements into clean and maintainable implementations.
 
 ---
-
 ## 🛠️ Tech Stack
-
-<div align="center">
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,typescript" />
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css" />
-
-### Database & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=postgres,prisma,redis,docker" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,npm,vscode" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
 
-### 🏗️ Renjana
+<td width="25%" align="center">
 
-Full-stack **monorepo** project.
+### ⚙️ Backend
 
-* NestJS backend
-* Prisma + PostgreSQL
-* Docker / Docker Compose
-* npm Workspaces
-* Shared `types` & `utils`
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,typescript" />
 
-</td>
+<br>
 
-<td width="50%">
-
-### 🌱 MasaDepanKu
-
-One of my hands-on development projects.
-
-<a href="https://github.com/Mahardika-Ardi/MasaDepanKu">
-View Repository →
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🧩 UKL-2026
-
-Also known as **Atributo**.
-
-<a href="https://github.com/Mahardika-Ardi/UKL-2026">
-View Repository →
-</a>
+<sub>
+Node.js · Express.js<br>
+NestJS · TypeScript
+</sub>
 
 </td>
 
-<td width="50%">
+<td width="25%" align="center">
 
-### 🎨 Refined Portfolio
+### 🎨 Frontend
 
-My portfolio project, currently still under development.
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css" />
 
-<a href="https://github.com/Mahardika-Ardi/Refined-Portfolio">
-View Repository →
-</a>
+<br>
+
+<sub>
+React · Next.js<br>
+HTML · CSS
+</sub>
 
 </td>
+
+<td width="25%" align="center">
+
+### 🗄️ Data & Infra
+
+<img src="https://skillicons.dev/icons?i=postgres,prisma,redis,docker" />
+
+<br>
+
+<sub>
+PostgreSQL · Prisma<br>
+Redis · Docker
+</sub>
+
+</td>
+
+<td width="25%" align="center">
+
+### 🔧 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,npm,vscode" />
+
+<br>
+
+<sub>
+Git · GitHub · npm<br>
+VS Code · DBeaver
+</sub>
+
+</td>
+
 </tr>
 </table>
 
----
 
-## 🧠 What I'm Exploring
-
-```text
-Backend Engineering
-      ↓
-API Design & Architecture
-      ↓
-Database & Data Modeling
-      ↓
-Performance & Security
-      ↓
-Clean & Maintainable Code
-```
-
-I'm still growing as a developer, so I don't consider every technology in my stack an advanced skill. My goal is to **build real projects, understand the fundamentals, and continuously improve my engineering decisions**.
 
 ---
 
-## 📚 Learning
+## 🏗️ Engineering
 
 <div align="center">
 
-**SMK Telkom Malang — Software Engineering (RPL)**
-
-  •  
-
-**Logicodix — React**
-
-  •  
-
-**CodingCamp × DBS Foundation — Full-Stack Web Development**
+<img src="https://img.shields.io/badge/API_Design-6C63FF?style=flat-square">
+<img src="https://img.shields.io/badge/Authentication-7C3AED?style=flat-square">
+<img src="https://img.shields.io/badge/Authorization-8B5CF6?style=flat-square">
+<img src="https://img.shields.io/badge/Database_Design-6366F1?style=flat-square">
+<img src="https://img.shields.io/badge/Clean_Code-4F46E5?style=flat-square">
+<img src="https://img.shields.io/badge/Architecture-2563EB?style=flat-square">
+<img src="https://img.shields.io/badge/Performance-0891B2?style=flat-square">
+<img src="https://img.shields.io/badge/Security-0E7490?style=flat-square">
 
 </div>
 
 ---
 
-## 📊 Experience
+## 📊 GitHub
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/~47-Projects-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/16-Express.js%20Projects-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/8-Full--Stack%20Projects-0891B2?style=for-the-badge" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Mahardika-Ardi&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=06B6D4&text_color=9CA3AF" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahardika-Ardi&layout=compact&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=9CA3AF" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahardika-Ardi&hide_border=true&background=00000000&ring=8B5CF6&fire=06B6D4&currStreakLabel=8B5CF6&sideLabels=9CA3AF&dates=9CA3AF" />
 
 </div>
 
@@ -168,20 +129,12 @@ I'm still growing as a developer, so I don't consider every technology in my sta
 
 <div align="center">
 
-### Let's build something.
+### Let's build something meaningful.
 
-<a href="https://github.com/Mahardika-Ardi">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" />
-</a>
+`Code` · `Architecture` · `Problem Solving`
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
+<br>
 
-<br><br>
-
-<sub>Learning • Building • Improving</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:8B5CF6,100:6C63FF&height=80&section=footer" width="100%"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:8B5CF6,100:6C63FF&height=100&section=footer" width="100%"/>
