@@ -112,21 +112,6 @@ VS Code · DBeaver
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Mahardika-Ardi&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=06B6D4&text_color=9CA3AF" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahardika-Ardi&layout=compact&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=9CA3AF" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahardika-Ardi&hide_border=true&background=00000000&ring=8B5CF6&fire=06B6D4&currStreakLabel=8B5CF6&sideLabels=9CA3AF&dates=9CA3AF" />
-
-</div>
-
----
-
 <div align="center">
 
 ### Let's build something meaningful.
